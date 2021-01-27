@@ -1,6 +1,11 @@
-### Hi there 👋
+<h1 align='center'> Hi there! :wave:</h1>
 
+<p align='center'>
+I'm Chinh Le, a Software Engineer from VN
+</p>
+<p align='center'>
 [![Chinh Le's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinhld12)](https://github.com/chinhld12/chinhld12)
+</p>
 
 <!--
 **chinhld12/chinhld12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
