@@ -4,7 +4,7 @@
 I'm Chinh Le, a Software Engineer from VN
 </p>
 <p align='center'>
-[![Chinh Le's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinhld12)](https://github.com/chinhld12/chinhld12)
+  <img src="https://github-readme-stats.vercel.app/api?username=ldchinhcr&show_icons=true&theme=onedark" alt="stat" />
 </p>
 
 <!--
