@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Chinh Le's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinhld12)](https://github.com/chinhld12/chinhld12)
+
 <!--
 **chinhld12/chinhld12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
