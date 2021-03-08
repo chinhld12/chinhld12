@@ -4,7 +4,7 @@
 I'm Chinh Le, a Software Engineer from VN
 </p>
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=ldchinhcr&show_icons=true&theme=onedark" alt="stat" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chinhld12&show_icons=true&theme=onedark" alt="stat" />
 </p>
 
 <!--
