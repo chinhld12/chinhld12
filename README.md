@@ -7,7 +7,7 @@ I'm Chinh Le, a Software Engineer from VN
 # 📊 GitHub Stats
 </p>
 <p align="center">
-<img src="https://chinhld-12-repo-stats.vercel.app/api/top-langs/?username=chinhld12&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=javascript,css,html" 
+<img src="https://chinhld-12-repo-stats.vercel.app/api/chinhld12" 
         alt="Picture" 
         width="494"
         height="194" 
